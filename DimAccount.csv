@@ -14,7 +14,7 @@
 13,3,1170,110,Deferred Taxes,Assets,+,NULL,Currency,NULL
 14,3,1180,110,Prepaid Expenses,Assets,+,NULL,Currency,NULL
 15,3,1185,110,Intercompany Receivables,Assets,+,NULL,Currency,NULL
-17,2,1200,10,Property, Plant, Equipment,Assets,+,NULL,Currency,NULL
+17,2,1200,10,Property,Assets,+,NULL,Currency,NULL
 18,17,1210,1200,Land & Improvements,Assets,+,NULL,Currency,NULL
 19,17,1220,1200,Buildings & Improvements,Assets,+,NULL,Currency,NULL
 20,17,1230,1200,Machinery & Equipment,Assets,+,NULL,Currency,NULL
@@ -98,8 +98,3 @@
 99,95,9540,9500,Square Footage,Balances,~,NULL,Units,NULL
 100,27,2220,2200,Current Installments of Long-term Debt,Liabilities,+,NULL,Currency,NULL
 101,51,4200,4110,Trade Sales,Revenue,+,NULL,Currency,NULL
-
-(99 rows affected)
-
-
-Completion time: 2025-03-06T14:31:45.0497458-08:00
